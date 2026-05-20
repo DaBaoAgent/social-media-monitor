@@ -1,0 +1,87 @@
+{
+  "dashboard_time": "2026-05-20 15:37",
+  "platforms": {
+    "小红书": {
+      "platform": "小红书",
+      "time": "2026-05-20 15:37",
+      "accounts": {
+        "大宝": {
+          "name": "大宝",
+          "nickname": "昆山轮椅租赁大宝",
+          "red_id": "95392884153",
+          "fans": "2",
+          "follows": "1",
+          "liked_total": "4",
+          "note_count": 5,
+          "recent_5": [
+            {
+              "title": "家人出行不便？昆山轮椅日租来了✨",
+              "likes": "",
+              "note_id": ""
+            }
+          ]
+        },
+        "工厂直租": {
+          "name": "工厂直租",
+          "nickname": "昆山工厂轮椅直租",
+          "red_id": "95480619590",
+          "fans": "2312",
+          "follows": "11",
+          "liked_total": "21274",
+          "note_count": 5,
+          "recent_5": [
+            {
+              "title": "终于懂了！给爸妈的孝心，是让他们能走出去",
+              "likes": "0",
+              "note_id": ""
+            }
+          ]
+        }
+      }
+    },
+    "抖音": {
+      "platform": "抖音",
+      "time": "2026-05-20 15:37",
+      "accounts": {
+        "大宝": {
+          "fans": "11",
+          "liked": "43",
+          "follows": "2",
+          "posts": "21",
+          "nickname": "",
+          "douyin_id": "64231236223|IP属地：江苏|49岁|江苏·苏州||昆山轮椅工厂直租，低至5块/天",
+          "name": "大宝"
+        },
+        "工厂直租": {
+          "fans": "1.8万",
+          "liked": "12",
+          "follows": "13",
+          "posts": "19",
+          "nickname": "",
+          "douyin_id": "64762519553|女||●源头工厂帮你选对辅具",
+          "name": "工厂直租"
+        }
+      }
+    },
+    "闲鱼": {
+      "platform": "闲鱼",
+      "time": "2026-05-20 15:37",
+      "accounts": {
+        "大宝": {
+          "fans": "6",
+          "follows": "0",
+          "items": "22",
+          "nickname": "昆山轮椅租赁大宝",
+          "name": "大宝"
+        },
+        "工厂直租": {
+          "fans": "2",
+          "follows": "2",
+          "items": "13",
+          "nickname": "昆山工厂轮椅直租",
+          "name": "工厂直租"
+        }
+      }
+    }
+  }
+}

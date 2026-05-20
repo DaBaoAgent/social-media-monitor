@@ -1,0 +1,20 @@
+{
+  "platform": "闲鱼",
+  "time": "2026-05-20 15:37",
+  "accounts": {
+    "大宝": {
+      "fans": "6",
+      "follows": "0",
+      "items": "22",
+      "nickname": "昆山轮椅租赁大宝",
+      "name": "大宝"
+    },
+    "工厂直租": {
+      "fans": "2",
+      "follows": "2",
+      "items": "13",
+      "nickname": "昆山工厂轮椅直租",
+      "name": "工厂直租"
+    }
+  }
+}

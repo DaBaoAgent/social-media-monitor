@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Data files (examples provided, real data not tracked)
+data/
+*.json
+!examples/*.json
+
+# Playwright
+browser-profiles/
+
+# IDE
+.idea/
+.vscode/
