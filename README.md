@@ -1,3 +1,11 @@
+<!-- README-PROMO:START -->
+<p align="center">
+  <img src="assets/readme/hero.webp" alt="MediaPulse：小红书、抖音和闲鱼多账号新媒体数据自动监控" width="100%" />
+  <img src="assets/readme/workflow.webp" alt="MediaPulse 工作流：三平台、六账号、自动采集与消息推送" width="100%" />
+  <img src="assets/readme/beginner.webp" alt="MediaPulse 新手上手：配置一次，每天三次自动采集并推送报告" width="100%" />
+</p>
+<!-- README-PROMO:END -->
+
 # 📊 MediaPulse — 新媒体数据脉搏
 
 <p align="center">
